@@ -5,6 +5,7 @@
 - You need to download this Extension for VSCode [easy-snippet](https://marketplace.visualstudio.com/items/?itemName=inu1255.easy-snippet)
 - Go to the Snippet Tab(Its normally on the left side)
 - Create a new group(click plus)
+- Select your language
 - In this Group create a new snippet
 - Give your snippet a key
 - Here you copy&paste some lines of code.
